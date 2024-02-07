@@ -19,8 +19,8 @@ class Lab3 {
         if (choice.equals("w"))
            System.out.println("How much would you like to withdraw");
             double withraw = input.nextInt();
-            balance = initialbalance - withdraw
-            System.out.println("You now have $" + initialbalance + " left in your account");
+            double newbalance = initialbalance - withdraw
+            System.out.println("You now have $" + newbalance + " left in your account");
 
 
     }
