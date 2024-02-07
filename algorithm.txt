@@ -1,1 +1,9 @@
+Ask user to input their name
+Create greeting message using name
+Give user choice between deposit, withdraw, check balance, or leave
+if anything but leave is chosen rerun
+if user chooses leave ask if they would like a recipt printed or emailed
+print total amount deposited/withdrawn and a thank you message
+remind user to either take recipt or check email
+
 
