@@ -1,7 +1,7 @@
-// Programmers:  [your names here]
+// Programmers: Gabe.S and Brodie.R
 // Course:  CS 212
-// Due Date:
-// Lab Assignment:
+// Due Date:2/11/24
+// Lab Assignment: Create an U
 // Problem Statement:
 // Data In:
 // Data Out:
