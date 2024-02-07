@@ -1,7 +1,7 @@
 // Programmers: Gabe.S and Brodie.R
 // Course:  CS 212
 // Due Date:2/11/24
-// Lab Assignment: Create an U
+// Lab Assignment: 
 // Problem Statement:
 // Data In:
 // Data Out:
@@ -12,7 +12,8 @@ import java.util.Scanner;
 
 class Lab3 {
     public static void main(String[] args) {
-       System.out.println("Welcome to Lab 3");
+       System.out.println("This Program will allow you to use an atm");
+        
 
 
     }
